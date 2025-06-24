@@ -26,7 +26,7 @@ Hospitals often lack centralized systems to measure **doctor performance**, **pa
 
 ## 📊 Data Visualization
 
-- Developed interactive dashboards in **Power BI**, allowing filtering by department, doctor, and date.
+- Developed interactive dashboards in **Power BI**, **Tableau** allowing filtering by department, doctor, and date.
 - Used **DAX** to calculate KPIs like **average consultation time**, **patients served**, and **doctor load balancing**.
 - Visualized key trends using bar charts, pie charts, and KPIs with conditional formatting for alerts.
 
@@ -50,7 +50,7 @@ Hospitals often lack centralized systems to measure **doctor performance**, **pa
 
 ## 🛠 Tools & Skills Used
 
-- **Power BI**, **SQL**, **Power Query**
+- **Tableau**, **Power BI**, **SQL**, **Power Query**
 - **Data Modeling**, **KPI Calculation**
 - **Dashboard Design**, **Healthcare Analytics**
 
