@@ -18,7 +18,7 @@ Hospitals often lack centralized systems to measure **doctor performance**, **pa
 
 ## 🔍 Data Processing
 
-- Cleaned and transformed raw hospital records using **Power Query** and **Excel**.
+- Cleaned and transformed raw hospital records using **Power Query** and **Excel**.Identified important KPIs.
 - Integrated multiple datasets including appointment logs, consultation records, and departmental statistics.
 - Modeled relational tables in **Power BI** for seamless dashboard integration.
 
